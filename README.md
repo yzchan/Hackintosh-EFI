@@ -1,26 +1,18 @@
 # Hackintosh-EFI分享
 
-分享两个自用黑苹果EFI，系统macOS Big Sur（黑果小兵官网下的镜像），均是基于OpenCore0.6.7引导。分别为
+自用EFI分享。
 
-- 4代Haswell架构：E3v1230 + GA-B85-HD3
-
-- 8代Coffee Lake架构：CPUi3-8100 + AUAS-H310M-K
-
-两套EFI核显（4代i3-4130）声卡、网卡均正常驱动。E3v1230不带核显，需要搭配显卡工作。
-
-建议更换三码之后使用，Apple ID可以登录，iCloud、App Store都可以正常使用。
-
-推荐FenviT919的四天线版BCM94360CD（黑果完全免驱），装上之后蓝牙、wifi、隔空投送等功能也都可以正常使用。价格230左右
 
 ## 常用资源
 
 - [黑果小兵](https://blog.daliansky.net/)
 - [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 - [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-- [OC校验](https://opencore.slowgeek.com/)
+- [OpenCore Configurator](https://mackie100projects.altervista.org/) OCC
+- [QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig)
+- ~~[OC校验](https://opencore.slowgeek.com/)~~ v0.66版本之后就不更新了，可以使用OCC的官方配置文件检验器来验证
 - [OC Gen-X](https://github.com/Pavo-IM/OC-Gen-X)
 - [balenaEtcher](https://www.balena.io/etcher/)
-- [QtOpenCoreConfig](https://github.com/ic005k/QtOpenCoreConfig)
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [远景论坛](http://bbs.pcbeta.com/)
