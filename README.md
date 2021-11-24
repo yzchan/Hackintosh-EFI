@@ -40,3 +40,10 @@
 [comment]: <> (https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
 [comment]: <> (https://blog.daliansky.net/Tutorial-Using-Hackintool-to-open-the-correct-pose-of-the-8th-generation-core-display-HDMI-or-DVI-output.html)
+
+<!-- https://imacosx.com/
+http://imacos.top/
+https://bbs.pcbeta.com/
+https://mac.filehorse.com/
+https://www.macwk.com/
+https://sspai.com/ -->
