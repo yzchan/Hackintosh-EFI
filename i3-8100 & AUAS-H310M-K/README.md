@@ -1,8 +1,16 @@
-i3-8100 & AUAS-H310M-K
+About
 ---
 
-8代Coffee Lake架构：CPUi3-8100 + AUAS-H310M-K
+macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5不带启动图形界面
 
-OC v0.7.2版本带启动图形界面，驱动了核显
 
-OC v0.7.2版本不带启动图形界面，也没有驱动核显
+| 组件 | 名称 |
+| --- | --- |
+| CPU | i3-8100 |
+| 主板 | AUAS-H310M-K |
+| 核显 | intel UHD 630 |
+| 显卡 | GTX660 |
+| 网卡 | BCM94360CD 4 天线 |
+| 机型 | iMac 19,1 |
+
+声卡、网卡、显卡正常驱动(核显未驱动TODO)。USB已定制。
