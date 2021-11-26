@@ -1,4 +1,4 @@
-怎么给显卡刷vBIOS支持UEFI启动 
+怎么给显卡刷vBIOS支持UEFI启动
 ---
 
 > 刷Bios有风险，任何损坏请自行承担责任！
@@ -16,7 +16,7 @@
 - [NVIDIA NVFlash](https://www.techpowerup.com/download/nvidia-nvflash/)
 - [AMD VBFlash/ATI ATIFlash](https://www.techpowerup.com/download/ati-atiflash/)
 
-安装python3环境，并使用pip安装colorama扩展 
+安装python3环境，并使用pip安装colorama扩展
 > pip install colorama
 
 ## 开始
