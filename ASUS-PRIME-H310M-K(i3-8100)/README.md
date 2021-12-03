@@ -6,8 +6,8 @@ macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5不带启动图形界面
 
 | 组件 | 名称 |
 | --- | --- |
-| CPU | i3-8100 |
-| 主板 | AUAS-H310M-K |
+| CPU | [i3-8100](https://ark.intel.com/content/www/cn/zh/ark/products/126688/intel-core-i38100-processor-6m-cache-3-60-ghz.html) |
+| 主板 | [ASUS PRIME H310M-K](https://www.asus.com.cn/Motherboards-Components/Motherboards/PRIME/PRIME-H310M-K/) |
 | 核显 | intel UHD 630 |
 | 显卡 | GTX660 |
 | 网卡 | BCM94360CD 4 天线 |

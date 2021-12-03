@@ -6,8 +6,8 @@ macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5（不带启动图形界面）
 
 | 组件 | 名称 |
 | --- | --- |
-| CPU | i5 10400f |
-| 主板 | MSI MAG B560M MORTAR WIFI |
+| CPU | [i5 10400f](https://ark.intel.com/content/www/cn/zh/ark/products/199278/intel-core-i510400f-processor-12m-cache-up-to-4-30-ghz.html) |
+| 主板 | [MSI MAG B560M MORTAR WIFI](https://cn.msi.com/Motherboard/MAG-B560M-MORTAR-WIFI) |
 | 显卡 | GTX770 |
 | 网卡 | - |
 | 硬盘 | Samsung SSD 970 EVO Plus 500GB |
