@@ -47,7 +47,7 @@ USB已定制（USB目录中包含了定制文件）。微星迫击炮B560M-WIFI�
 | 08 | HS08 | 后面板第一排USB2.0 |
 | 09 | HS09 | 后面板第一排USB2.0 |
 | 10 | HS10 | 后面板第一排USB2.0 |
-| 11 | HS11 | USB2.0Hub 前面板左边两个USB2.0接口 |
+| 11 | HS11 | USB2.0Hub 前面板左边两个USB2.0接口 + 蓝牙 |
 | 12 | HS12 | Unknown |
 | 13 | HS13 | Unknown |
 | 14 | HS14 | MYSTIC LIGHT 微星RGB灯效 |
@@ -58,6 +58,3 @@ USB已定制（USB目录中包含了定制文件）。微星迫击炮B560M-WIFI�
 | 19 | SS03 | Unknown |
 | 20 | SS04 | 前面板USB3.0接口 |
 | 21 | SS05 | Unknown |
-
-#### TODOs
-手头暂时没有免驱网卡，蓝牙WIFI无法使用，USB定制中蓝牙占用的端口也未定制。后期会加上。

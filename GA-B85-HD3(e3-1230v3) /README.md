@@ -7,7 +7,7 @@ macOS High Sierra(17G14042) + OpenCore 0.7.5
 | 组件 | 名称 |
 | --- | --- |
 | CPU | [e3 1230v3](https://ark.intel.com/content/www/cn/zh/ark/products/75054/intel-xeon-processor-e31230-v3-8m-cache-3-30-ghz.html) |
-| 主板 | GA-B85M-HD3 |
+| 主板 | [GA-B85M-HD3](https://www.gigabyte.cn/Motherboard/GA-B85M-HD3-A-rev-10#ov) |
 | 显卡 | GTX750（需要WebDriver）|
 | 网卡 | BCM94360CD 4 天线 |
 | 机型 | iMac14,4 |
