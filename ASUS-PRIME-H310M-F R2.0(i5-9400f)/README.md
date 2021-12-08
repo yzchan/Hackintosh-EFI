@@ -1,7 +1,7 @@
 About
 ---
 
-macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5不带启动图形界面
+macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5
 
 | 组件 | 名称 |
 | --- | --- |

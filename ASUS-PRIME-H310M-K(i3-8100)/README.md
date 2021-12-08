@@ -1,7 +1,7 @@
 About
 ---
 
-macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5不带启动图形界面
+OpenCore版本0.7.5。macOS版本已升级至12.0.1(macOS Monterey)。由于苹果从macOS Monterey beta7版本之后的系统中删除了所有开普勒架构的N卡驱动，更新完之后GTX660无法驱动，幸好有[GitHub大神制作的修复程序](https://github.com/chris1111/Geforce-Kepler-patcher)可以重新驱动开普勒架构的N卡。
 
 
 | 组件 | 名称 |
@@ -12,7 +12,3 @@ macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5不带启动图形界面
 | 显卡 | GTX660 |
 | 网卡 | BCM94360CD 4 天线 |
 | 机型 | iMac 19,1 |
-
-声卡、网卡、显卡正常驱动（GTX660免驱，核显正常驱动）。USB已定制。
-
-USB目录包含了使用Hackintool定制USB驱动（针对AUAS-H310M-K主板）生成的文件。
