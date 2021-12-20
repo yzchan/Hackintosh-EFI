@@ -10,6 +10,8 @@ macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5
 | 核显 | - |
 | 显卡 | GT710 |
 | 网卡 | - |
+| OC版本 | 0.7.5 |
+| macOS | macOS Big Sur 11.2.3 (20D91) |
 | 机型 | iMac 19,1 |
 
 声卡、网卡、显卡正常驱动。USB已定制。

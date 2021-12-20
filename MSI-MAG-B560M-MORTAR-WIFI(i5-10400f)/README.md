@@ -1,16 +1,15 @@
 About
 ---
 
-macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5（不带启动图形界面）
-
-
 | 组件 | 名称 |
 | --- | --- |
 | CPU | [i5 10400f](https://ark.intel.com/content/www/cn/zh/ark/products/199278/intel-core-i510400f-processor-12m-cache-up-to-4-30-ghz.html) |
 | 主板 | [MSI MAG B560M MORTAR WIFI](https://cn.msi.com/Motherboard/MAG-B560M-MORTAR-WIFI) |
 | 显卡 | GTX770 |
 | 网卡 | - |
-| 硬盘 | Samsung SSD 970 EVO Plus 500GB |
+| 硬盘 | [Samsung SSD 970 EVO Plus 500GB](https://www.samsungeshop.com.cn/product/MZ-V7S/MZ-V7S250BW) |
+| OC版本 | 0.7.5 |
+| macOS | macOS Big Sur 11.2.3 (20D91) |
 | 机型 | iMac20,1 |
 
 #### 注意点
@@ -39,7 +38,7 @@ USB已定制（USB目录中包含了定制文件）。微星迫击炮B560M-WIFI�
 | ---- | ---- | ---- |
 | 01 | HS01 | typec对应的USB2.0 |
 | 02 | HS02 | IOUSBHostDevice 板载WIFI和蓝牙 |
-| 03 | HS03 | ASM107x 后面板USB3.0Hub对应的USB2.0接口 | 
+| 03 | HS03 | ASM107x 后面板USB3.0Hub对应的USB2.0接口 |
 | 04 | HS04 | Unknown |
 | 05 | HS05 | 前面板USB3.0接口->USB2.0 |
 | 06 | HS06 | Unknown |
