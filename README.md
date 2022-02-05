@@ -10,7 +10,7 @@
 - [OpenCore Configurator](https://mackie100projects.altervista.org/) OCC
 - [OC Auxiliary Tools](https://github.com/ic005k/QtOpenCoreConfig) OCAT
 - [ProperTree](https://github.com/corpnewt/ProperTree)
-- [OC Gen-X](https://github.com/Pavo-IM/OC-Gen-X) 可以迅速生成EFI文件
+- [OC Gen-X](https://github.com/Pavo-IM/OC-Gen-X) 可以迅速生成EFI文件（本项目的所有EFI均使用OC Gen-X生成）
 - [balenaEtcher](https://www.balena.io/etcher/) 制作启动U盘
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [远景论坛](http://bbs.pcbeta.com/)
