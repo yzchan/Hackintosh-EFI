@@ -33,7 +33,6 @@ USB已定制（USB目录中包含了定制文件）。微星迫击炮B560M-WIFI�
 
 定制前使用的是黑果小兵维护的[USBInjectAll.kext v0.7.8](https://github.com/daliansky/OS-X-USB-Inject-All)。如果使用前作者维护v0.7.1版本的USBInjectAll.kext会导致进入系统登录界面时鼠标键盘失灵。
 
-
 | 端口  | 名称  | 说明  |
 | ---- | ---- | ---- |
 | 01 | HS01 | typec对应的USB2.0 |
