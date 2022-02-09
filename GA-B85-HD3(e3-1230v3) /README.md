@@ -7,7 +7,7 @@
 | 显卡 | [GTX750](https://www.nvidia.cn/geforce/graphics-cards/geforce-gtx-750/) |
 | 网卡 | BCM94360CD 4 天线 |
 | 硬盘 | Samsung SSD 840 EVO 120GB |
-| OC版本 | 0.7.5 |
+| OC版本 | 0.7.8 |
 | macOS | macOS High Sierra(17G14042) |
 | 机型 | iMac14,4 |
 
