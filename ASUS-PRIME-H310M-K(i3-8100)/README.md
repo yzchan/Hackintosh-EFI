@@ -9,7 +9,7 @@ About
 | 显卡 | GTX660 |
 | 硬盘 | [WDC WDS240G2G0A](https://www.westerndigital.com/zh-cn/products/internal-drives/wd-green-sata-2-5-ssd#WDS240G2G0A) |
 | 网卡 | BCM94360CD 4 天线 |
-| OC版本 | 0.7.5 |
+| OC版本 | 0.7.8 |
 | macOS | macOS Monterey 12.0.1(21A559) |
 | 机型 | iMac 19,1 |
 
