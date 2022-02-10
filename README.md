@@ -13,6 +13,7 @@
 - [OC Gen-X](https://github.com/Pavo-IM/OC-Gen-X) 可以迅速生成EFI文件（本项目的所有EFI均使用OC Gen-X生成）
 - [balenaEtcher](https://www.balena.io/etcher/) 制作启动U盘
 - [Hackintool](https://github.com/headkaze/Hackintool)
+- [声卡id注入查询](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)
 - [远景论坛](http://bbs.pcbeta.com/)
 - [黑苹果星球](https://heipg.cn/)
 - [tonymacx86](https://www.tonymacx86.com/)
