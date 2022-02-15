@@ -1,5 +1,4 @@
-About
----
+# About
 
 | 组件 | 名称 |
 | --- | --- |
@@ -12,7 +11,6 @@ About
 | OC版本 | 0.7.8 |
 | macOS | macOS Monterey 12.0.1(21A559) |
 | 机型 | iMac 19,1 |
-
 
 macOS版本已从11.2.3升级至12.0.1。由于苹果从macOS Monterey beta7版本之后的系统中删除了所有开普勒架构的N卡驱动，更新之后GTX660无法驱动，幸好有[大神制作的修复程序](https://github.com/chris1111/Geforce-Kepler-patcher)可以重新驱动开普勒架构的N卡。
 

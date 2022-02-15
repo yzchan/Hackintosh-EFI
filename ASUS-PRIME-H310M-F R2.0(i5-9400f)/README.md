@@ -1,5 +1,4 @@
-About
----
+# About
 
 macOS Big Sur 11.2.3 (20D91) + OpenCore 0.7.5
 
