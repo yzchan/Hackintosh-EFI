@@ -12,8 +12,20 @@
 | macOS | macOS Big Sur 11.2.3 (20D91) |
 | 机型 | iMac20,1 |
 
+## USB已定制
+
+使用USBToolBox定制后的kext导致卡蓝条，未解决。最后还是使用Hackintool定制。
+该主板前面板的蓝色接口好像是2.0，插入2.0和3.0设备都对应HS07。其他端口正常。
+HS14端口是内置的Hub，免驱网卡就挂在这个端口上。
+
 ## 备忘
 
-- USB未定制
 - 内置声卡正常驱动，但是显示器上的音频没有声音
 - 核显已驱动，但hdmi黑屏（主板没有dp接口）
+- 
+
+## 开机卡F1
+
+开机出现"the system has posted in safe mode"错误，必须按F1进入BIOS一次才能正常引导系统，勾选Kernel>Quirks>DisableRtcChecksum即可解决。
+
+> DisableRtcChecksum：在AppleRTC中禁用校验和写入（0x58-0x59）。
