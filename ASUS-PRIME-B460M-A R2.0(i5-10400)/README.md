@@ -4,12 +4,12 @@
 | --- | --- |
 | CPU | [i3-10400](https://ark.intel.com/content/www/cn/zh/ark/products/199271/intel-core-i5-10400-processor-12m-cache-up-to-4-30-ghz.html) |
 | 主板 | [ASUS PRIME B460M-A R2.0](https://www.asus.com.cn/Motherboards-Components/Motherboards/PRIME/PRIME-B460M-A-R2-0/) |
-| 核显 | intel UHD 630 |
-| 显卡 | GTX660 |
+| 核显 | Intel UHD 630 |
+| 显卡 | [华硕AREZ-RX560-O2G-EVO](https://www.asus.com/motherboards-components/graphics-cards/arez/arez-rx560-o2g-evo/) |
 | 网卡 | BCM94360CD 4 天线 |
 | 硬盘 | [Samsung SSD 970 EVO Plus 500GB](https://www.samsungeshop.com.cn/product/MZ-V7S/MZ-V7S250BW) |
 | OC版本 | 0.7.8 |
-| macOS | macOS Big Sur 11.2.3 (20D91) |
+| macOS | macOS Monterey 12.2.1 (21D62) |
 | 机型 | iMac20,1 |
 
 ## USB已定制
@@ -21,8 +21,7 @@ HS14端口是内置的Hub，免驱网卡就挂在这个端口上。
 ## 备忘
 
 - 内置声卡正常驱动，但是显示器上的音频没有声音
-- 核显已驱动，但hdmi黑屏（主板没有dp接口）
-- 
+- 核显已驱动，但hdmi和dvi接口无输出（主板没有dp接口）
 
 ## 开机卡F1
 
