@@ -12,6 +12,7 @@
 | macOS | macOS Monterey 12.2.1 (21D62) |
 | 机型 | iMac20,1 |
 
+
 ## USB已定制
 
 使用USBToolBox定制后的kext导致卡蓝条，未解决。最后还是使用Hackintool定制。
