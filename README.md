@@ -22,6 +22,7 @@
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 生成三码
 - [macOS历史版本](https://support.apple.com/zh-cn/HT201260)
 - [如何创建可引导的 macOS 安装器](https://support.apple.com/zh-cn/HT201372)
+- [Carbon Copy Cloner](https://bombich.com/)
 
 ## macOS应用
 - [MacWk - 精品mac软件下载](https://www.macwk.com/)
