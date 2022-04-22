@@ -483,6 +483,8 @@
                 <false/>
                 <key>AppleXcpmForceBoost</key>
                 <false/>
+                <key>CustomPciSerialDevice</key>
+                <false/>
                 <key>CustomSMBIOSGuid</key>
                 <false/>
                 <key>DisableIoMapper</key>
@@ -494,6 +496,8 @@
                 <key>ExtendBTFeatureFlags</key>
                 <false/>
                 <key>ExternalDiskIcons</key>
+                <false/>
+                <key>ForceAquantiaEthernet</key>
                 <false/>
                 <key>ForceSecureBootScheme</key>
                 <false/>
@@ -549,7 +553,7 @@
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
-                <string>Builtin</string>
+                <string>External</string>
                 <key>PickerVariant</key>
                 <string>Auto</string>
                 <key>PollAppleHotKeys</key>
@@ -575,12 +579,10 @@
                 <integer>2147483648</integer>
                 <key>LogModules</key>
                 <string></string>
-                <key>SerialInit</key>
-                <false/>
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
-                <integer>67</integer>
+                <integer>3</integer>
             </dict>
             <key>Entries</key>
             <array/>
@@ -616,6 +618,13 @@
                 <string>Default</string>
                 <key>Vault</key>
                 <string>Optional</string>
+            </dict>
+            <key>Serial</key>
+            <dict>
+                <key>Init</key>
+                <false/>
+                <key>Override</key>
+                <false/>
             </dict>
             <key>Tools</key>
             <array/>
@@ -711,7 +720,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02126270GUPHC1CB</string>
+                <string>00000</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -725,9 +734,9 @@
                 <key>SystemProductName</key>
                 <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02FXEY6PN5T</string>
+                <string>00000</string>
                 <key>SystemUUID</key>
-                <string>641E9F34-3F9E-4FDA-BB3B-166FCFE5010D</string>
+                <string>00000</string>
             </dict>
             <key>Memory</key>
             <dict>
@@ -873,7 +882,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
                 </dict>
