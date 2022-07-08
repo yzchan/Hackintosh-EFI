@@ -8,7 +8,7 @@
 | 显卡 | [华硕AREZ-RX560-O2G-EVO](https://www.asus.com/motherboards-components/graphics-cards/arez/arez-rx560-o2g-evo/) |
 | 网卡 | BCM94360CD 4 天线 |
 | 硬盘 | [Samsung SSD 970 EVO Plus 500GB](https://www.samsungeshop.com.cn/product/MZ-V7S/MZ-V7S250BW) |
-| OC版本 | 0.7.8 |
+| OC版本 | 0.8.2 |
 | macOS | macOS Monterey 12.2.1 (21D62) |
 | 机型 | iMac20,1 |
 
@@ -18,6 +18,10 @@
 - [x] CPU 变频
 - [x] WiFi&蓝牙，奋威T919免驱
 - [x] 接力和隔空投送
+
+## 2022-07-08
+
+更新oc0.8.2。感觉开机时间变长了。
 
 ## 2022-03-09
 
